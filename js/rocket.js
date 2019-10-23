@@ -1,4 +1,4 @@
-var timer = 0;
+var timer = null;
 var countdownNumber = 10;
 
 var changeState = function (state) {
